@@ -5,7 +5,7 @@ This was a private installation for the Uhub Chat client that we planned to use 
 Note, that this is here for archival purposes and will not be used in production.
 
 The Ultimate Open Source WebChat Platform
-
+ 
 * [Live Demo](#live-demo)
 * [Mobile apps](#mobile-apps)
 * [Desktop apps](#desktop-apps)
