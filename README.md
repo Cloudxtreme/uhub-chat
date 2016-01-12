@@ -1,4 +1,4 @@
-#__Uhub Chat__
+#__Uhub Chat__ 
 
 This was a private installation for the Uhub Chat client that we planned to use for our first Alumni Hackathon.
 
