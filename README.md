@@ -1,4 +1,8 @@
-![Rocket.Chat logo](https://rocket.chat/images/logo/logo-dark.svg?v3)
+#__Uhub Chat__
+
+This was a private installation for the Uhub Chat client that we planned to use for our first Alumni Hackathon.
+
+Note, that this is here for archival purposes and will not be used in production.
 
 The Ultimate Open Source WebChat Platform
 
